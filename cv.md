@@ -20,3 +20,28 @@ Developed organizational, communication, presenting, and mentoring skills, advan
 - Confluence
 - GIT
 - Scrum
+
+### Code Examples
+
+```js
+function multiply(a, b){
+  return a * b
+}
+```
+### Work Experience
+
+- **Service Desk Project Coordinator** EPAM Systems Inc.
+- **Service Desk Technical Lead** EPAM Systems Inc.
+- **Service Desk Technician** EPAM Systems Inc.
+- **Travel Services Specialist** EPAM Systems Inc.
+- **Customer Support Manager** Dream Support Ltd.
+
+### Education
+- **iTechArt Group**: Business Analyst Internship
+- **TeachMeSkills**: Business Analysis Course
+- **Minsk State Linguistic University**: English Language and Area Studies. Bachelor's degree
+
+### Languages
+
+- **English**: C2
+- **German**: A2
