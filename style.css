@@ -1,0 +1,27 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+.name {
+    color: #3c64bb;
+}
+
+.category {
+    color: cornflowerblue;
+}
+
+.position {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    color: midnightblue;
+}
+
+.list_item_main {
+    font-weight: bold;
+}
