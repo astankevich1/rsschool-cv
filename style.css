@@ -11,6 +11,16 @@ body {
     color: #3c64bb;
 }
 
+.photo {
+    height: 118px;
+}
+
+.personal {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .category {
     color: cornflowerblue;
 }
